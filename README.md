@@ -6,5 +6,7 @@ Math project
 Langage : Python
 # Execution
 cd 308_reedpipes
+
 make
+
 ./308reedpipes 1.5 2 2 2 5 11 (exemple du sujet)
